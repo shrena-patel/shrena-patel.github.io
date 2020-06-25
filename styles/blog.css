@@ -71,7 +71,7 @@ header {
     font-weight: 200;
     line-height: 1.6;
     padding-top: 4em;
-    padding-bottom: 1.5em;
+    
     font-size: 40px;
 }
 
@@ -80,6 +80,7 @@ header {
     text-transform: uppercase;
     font-weight: 100;
     padding-top: 1.3em;
+    
     font-size: 18px;
    
     
@@ -103,3 +104,7 @@ header {
     margin-top: 1em;
 }
 
+.blog__links {
+    margin-bottom: 2em;
+    margin-top: 1em;
+}

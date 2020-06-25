@@ -1,0 +1,124 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif; 
+    
+    color: #839791;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+ body {
+     
+    margin: 0 auto;
+ }
+
+header {
+    
+    /*background: #839791;
+    background-image: url(../img/plant.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    background-position: center;*/
+}
+
+/* NAVBAR ==================================*/
+.nav {
+    padding-top: 2em;
+    
+}
+
+.nav__list {
+    display: flex;
+    float: right;  
+    padding-right: 2em;
+}
+ 
+.nav__item {
+    list-style-type: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 18px;
+    font-weight: 200;
+    padding: 0 1em;
+}
+
+.nav__link {
+    text-decoration: none;
+    
+}
+
+.nav__link:hover,
+.nav__link:focus {
+    color: #896978;
+    border-bottom: 1px solid #896978;
+}
+
+/* BLOG CONTENT =========================*/
+
+.container {
+    max-width: 700px;
+    margin-top: 6em;
+    margin: 0 auto;
+    padding-top: 6em;
+    
+}
+
+.blog__title {
+    font-size: 45px;
+    padding-bottom: 0.5em;
+}
+
+.blog__subtitle {
+    font-size: 18px;
+    font-weight: 100;
+    padding-bottom: 1.5em;
+}
+
+.date {
+    text-transform: uppercase;
+    font-weight: 200;
+    padding-bottom: 2.5em;
+    font-size: 14px;
+    color: #896978;
+}
+.blog__para {
+    line-height: 1.6;
+}
+
+.blog__button {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 100;
+    padding-top: 3em;
+    font-size: 18px;
+   
+    
+}
+
+.button {
+    border: 1px solid #839791;
+    color: #839791;
+    padding: 10px 15px;
+    text-align: right;
+    text-decoration: none;
+}
+
+.button:hover,
+.button:focus {
+    background: #839791;
+    color: white;
+}
+
+.blog__button + .blog__button {
+    margin-left: 1em;
+
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 2em;
+}
