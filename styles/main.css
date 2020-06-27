@@ -113,7 +113,7 @@ header {
 .button {
     border: 2px solid white;
     color: white;
-    padding: 10px 10px;
+    padding: 10px 20px;
     
     text-decoration: none;
 }
@@ -122,7 +122,7 @@ header {
 .button:focus {
     background: white;
     color: #414E49;
-}
+} 
 
 /* FOOTER ======================= */
 
