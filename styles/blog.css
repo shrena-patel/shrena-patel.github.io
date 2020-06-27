@@ -9,25 +9,16 @@
 html {
     scroll-behavior: smooth;
 }
- body {
-     
-    margin: 0 auto;
+ 
+body {
+    margin: 0;
  }
 
-header {
-    height: 100vh;
-    /*background: #839791;
-    background-image: url(../img/plant.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    
-    background-position: center;*/
-}
+
 
 /* NAVBAR ==================================*/
 .nav {
-    padding-top: 2em;
-    
+    padding-top: 2em;   
 }
 
 .nav__list {
@@ -46,8 +37,7 @@ header {
 }
 
 .nav__link {
-    text-decoration: none;
-    
+    text-decoration: none;  
 }
 
 .nav__link:hover,
@@ -59,11 +49,10 @@ header {
 /* BLOG CONTENT =========================*/
 
 .container {
-    max-width: 900px;
+    max-width: 750px;
     margin-top: 1em;
     margin-left: auto;
     margin-right: auto;
-    
 }
 
 .blog__text {
@@ -80,10 +69,7 @@ header {
     text-transform: uppercase;
     font-weight: 400;
     padding-top: 1.3em;
-    
-    font-size: 18px;
-   
-    
+    font-size: 18px;  
 }
 
 .button {

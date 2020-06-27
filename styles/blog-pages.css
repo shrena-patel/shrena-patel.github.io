@@ -53,10 +53,8 @@ html {
     max-width: 700px;
     margin-top: 6em;
     margin: 0 auto;
-    padding-top: 8em;
-    
+    padding-top: 8em; 
 }
-
 
 .blog__title {
     font-size: 45px;
@@ -89,8 +87,6 @@ html {
     font-size: 18px;
 }
 
-
-
 .button {
     border: 2px solid #414E49;
     color: #414E49;
@@ -121,5 +117,22 @@ html {
 h4 {
     font-weight: 400;
     text-transform: uppercase;
+    margin-top: 2em;
 }
 
+/* SPRINT2 EXTRAS */
+
+img {
+    max-width: 100%;
+}
+figcaption {
+    text-align: center;
+}
+
+.example {
+    border: 1px solid grey;
+}
+
+.title {
+    font-weight: 700;
+}
