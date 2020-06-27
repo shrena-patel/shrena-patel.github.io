@@ -1,24 +1,22 @@
 * {
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif; 
-    
     color: #414E49;
-    margin: 0;
-    
+    margin: 0; 
 }
 
 html {
     scroll-behavior: smooth;
 }
- body {
-     
+
+body { 
     margin: 0;
- }
+}
 
 /* NAVBAR ==================================*/
+
 .nav {
-    padding-top: 2em;
-    
+    padding-top: 2em; 
 }
 
 .nav__list {
@@ -37,8 +35,7 @@ html {
 }
 
 .nav__link {
-    text-decoration: none;
-    
+    text-decoration: none; 
 }
 
 .nav__link:hover,
@@ -92,8 +89,7 @@ html {
     color: #414E49;
     padding: 10px 20px;
     text-align: right;
-    text-decoration: none;
-    
+    text-decoration: none; 
 }
 
 .button:hover,
@@ -101,7 +97,6 @@ html {
     background: #414E49;
     color: white;
 }
-
 
 .buttons {
     display: flex;
@@ -111,13 +106,10 @@ html {
     margin: 0 auto;
 }
 
-.button__two {
-    margin-right: 2em;
-}
 h4 {
     font-weight: 400;
     text-transform: uppercase;
-    margin-top: 2em;
+    margin-top: 1em;
 }
 
 /* SPRINT2 EXTRAS */
@@ -125,6 +117,7 @@ h4 {
 img {
     max-width: 100%;
 }
+
 figcaption {
     text-align: center;
 }

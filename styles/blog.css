@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif; 
-    
     color: #414E49;
     margin: 0;
 }
@@ -14,9 +13,8 @@ body {
     margin: 0;
  }
 
-
-
 /* NAVBAR ==================================*/
+
 .nav {
     padding-top: 2em;   
 }
