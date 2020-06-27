@@ -123,15 +123,3 @@ h4 {
     text-transform: uppercase;
 }
 
-/* SPRINT2 EXTRAS */
-
-img {
-    max-width: 100%;
-}
-figcaption {
-    text-align: center;
-}
-
-.example {
-    border: 1px solid grey;
-}
