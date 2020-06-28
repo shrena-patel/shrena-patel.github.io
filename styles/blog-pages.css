@@ -120,6 +120,8 @@ img {
 
 figcaption {
     text-align: center;
+    margin-bottom: 2em;
+    font-size: 14px;
 }
 
 .example {
