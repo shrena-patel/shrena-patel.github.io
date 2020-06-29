@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Emotional Intelligence | Shrena Patel</title>
+    <meta charset="UTF-8">
+    <link href="../styles/blog-pages.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400;700;900&display=swap" rel="stylesheet">
+  </head>
+  
+  <body>
+      <header>
+          <nav>
+            <div class="nav">
+              <ul class="nav__list">
+                <li class="nav__item"><a href="../index.html" class="nav__link">Home</a></li>
+                <li class="nav__item"><a href="about.html" class="nav__link">About</a></li>
+                <li class="nav__item"><a href="blog.html" class="nav__link">Blog</a></li>
+              </ul>
+            </div>
+          </nav>
+        </header>
+            <div class="container">
+              <h1 class="blog__title">Emotional Intelligence</h1>
+              <h2 class="blog__subtitle"></h2>
+              <h3 class="date">June 2020</h3>
+    
+<div class="blog__text">
+                <h4>What is emotional intelligence?</h4></br>
+                  <p class="blog__para">Emotional Intelligence, or EQ, is the ability to recognise, understand and manage your own emotions as well as recognise, understand the emotions of others. The term Emotional Intelligence was coined by researchers Peter Salavoy and John Mayer and the concept is useful in helping us navigate the complex and uncertain world we live in.</p></br>
+                  <p class="blog__para">Practically speaking, having emotional intelligence enables us to have awareness around how our emotions affect our behavior and therefore impact others, and it helps us manage our own emotions particularly in stressful situations.</p></br>
+                  <p class="blog__para">This can have an effect on not only our mental health, but also our physical health, as uncontrolled emotions can have negative affects on our bodies.</p></br>
+              
+<h4>How is it different to IQ?</h4></br>
+                  <p class="blog__para">IQ is used for determining an individual’s academic abilities, through a standardised test that is designed to asses someone’s intelligence.</p></br>
+                  <p class="blog__para">Whereas EQ is the ability to identify and assess your own emotions. In the context of a workplace, IQ could be seen as the ability to succeed at challenging analytical tasks whereas EQ could be seen as the ability to work successfully in a team or successfully lead a team.</p></br>
+                  
+              
+<h4>Why is it important?</h4></br>
+                  <p class="blog__para">Some people may see Emotional Intelligence as a bit wishy-washy, and not something you need in order to get a job in tech. However, you can have all the technical knowledge, but if you lack self-awareness and are unable to manage your emotions, chances are you won’t get hired. Companies would rather have someone who has less technical knowledge, but high emotional intelligence, rather than someone with great technical knowledge but is aloof and can’t work well in a team.</p></br>
+                  <p class="blog__para">On a personal level, cultivating sound emotional intelligence is the basis for leading a content and fulfilled life. If you go through life not acknowledging your emotions and not going behind the scenes to check in with yourself, things will always seem difficult. But if you learn to have awareness of your own feelings and the feelings of others, and spend time setting up habits that will aid this awareness, life will be a lot less stressful and overwhelming.</p></br>
+          
+
+</div>
+    </div>
+
+<div class="buttons">
+                <p class="blog__button"><a href="blog.html" class="button">Blog home</a></p>
+                <p class="blog__button"><a href="#" class="button">View next post</a></p>
+            </div>
+
+  </body>
+</html>
