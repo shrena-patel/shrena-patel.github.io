@@ -81,7 +81,7 @@ header {
 
 .blog {
     background: #414E49;
-    height: 300px;
+    height: 400px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -118,4 +118,23 @@ header {
 } 
 
 /* FOOTER ======================= */
+
+.fab {
+    color: white;
+    margin-top: 1.5em; 
+}
+
+.fab + .fab {
+    padding-left: 4em;
+}
+
+.fab:focus, 
+.fab:hover {
+    color: #AAC0AF;
+}
+
+.icons {
+    display: inline-block; 
+    align-self: center;
+}
 
