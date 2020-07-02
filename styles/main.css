@@ -33,6 +33,7 @@ header {
     float: right;  
     padding-right: 2em;
 }
+
  
 .nav__item {
     list-style-type: none;
@@ -93,7 +94,7 @@ header {
     padding: 3em 1em;
     font-size: 20px;
     font-weight: 400;
-    max-width: 700px;
+    max-width: 750px;
 }
 
 .blog__button {
