@@ -89,6 +89,82 @@ body {
     color: white;
 }
 
+#one:hover,
+#one:focus {
+    background: #8AA891;
+    border: 1px solid #8AA891;
+    color: white;
+}
+
+#two:hover,
+#two:focus {
+    background: #72977B;
+    border: 1px solid #72977B;
+    color: white;
+}
+
+#three:hover,
+#three:focus {
+    background: #5F8168;
+    border: 1px solid #5F8168;
+    color: white;
+}
+
+#four:hover,
+#four:focus {
+    background: #4E6A55;
+    border: 1px solid #4E6A55;
+    color: white;
+}
+
+#five:hover,
+#five:focus {
+    background: #3D5242;
+    border: 1px solid #3D5242;
+    color: white;
+}
+
+#six:hover,
+#six:focus {
+    background: #2B3B2F;
+    border: 1px solid #2B3B2F;
+    color: white;
+}
+
+#seven:hover,
+#seven:focus {
+    background: #3D5242;
+    border: 1px solid #3D5242;
+    color: white;
+}
+
+#eight:hover,
+#eight:focus {
+    background: #4E6A55;
+    border: 1px solid #4E6A55;
+    color: white;
+}
+
+#nine:hover,
+#nine:focus {
+    background: #5F8168;
+    border: 1px solid #5F8168;
+    color: white;
+}
+
+#ten:hover,
+#ten:focus {
+    background: #72977B;
+    border: 1px solid #72977B;
+    color: white;
+}
+
+
+
+
+
+
+
 .blog__button + .blog__button {
     margin-top: 1em;
 }
@@ -101,3 +177,4 @@ body {
 .about__container {
     height: 50vh;
 }
+
