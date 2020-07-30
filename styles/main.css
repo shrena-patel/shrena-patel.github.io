@@ -5,10 +5,6 @@
     margin: 0;
 }
 
-html {
-    scroll-behavior: smooth;
-}
-
 body {
     margin: 0 auto;
 }
@@ -25,7 +21,8 @@ header {
 /* NAVBAR ==================================*/
 
 .nav {
-    padding-top: 2em; 
+    padding-top: 2em;
+    
 }
 
 .nav__list {
@@ -58,6 +55,14 @@ header {
 
 
 /* INTRO =================================*/
+@keyframes slideInFromLeft {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
 
 .intro {
     text-align: left;
@@ -70,6 +75,7 @@ header {
     font-weight: 700;
     color: #414E49;
     padding-top: 1.2em;
+    animation: 1s ease-out 0s 1 slideInFromLeft;
 }
 
 .highlight__text {
@@ -78,6 +84,7 @@ header {
     font-size: 18px;
     text-transform: uppercase;
     letter-spacing: 2px;
+    animation: 1s ease-out 0s 1 slideInFromLeft;
 }
 
 /* ABOUT ==================================*/
